@@ -1,0 +1,17 @@
+<svg width="30" height="30" viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg">
+<style type="text/css">
+	.cf-icon-color-stroke {stroke:#33CC99 !important;}
+	.cf-icon-color-fill {fill:#33CC99 !important;}
+</style>
+<path class="cf-icon-color-fill" fill="#33CC99" d="M9.5,27c0.8,0,1.5,0.7,1.5,1.5S10.3,30,9.5,30S8,29.3,8,28.5S8.7,27,9.5,27z"/>
+<path class="cf-icon-color-fill" fill="#33CC99" d="M14.5,27c0.8,0,1.5,0.7,1.5,1.5S15.3,30,14.5,30S13,29.3,13,28.5S13.7,27,14.5,27z"/>
+<path class="cf-icon-color-fill" fill="#33CC99" d="M19.5,27c0.8,0,1.5,0.7,1.5,1.5S20.3,30,19.5,30S18,29.3,18,28.5S18.7,27,19.5,27z"/>
+<rect x="1" y="1" fill="none" stroke="#444444" stroke-width="2" width="27" height="22"/>
+<line fill="none" stroke="#444444" stroke-width="2" x1="14.5" y1="23" x2="14.5" y2="1"/>
+<polyline fill="none" stroke="#444444" stroke-width="1.9" points="3.4,9.7 7.1,5.5 12,10.9 "/>
+<polyline fill="none" stroke="#444444" stroke-width="1.9" points="16.9,9.7 20.6,5.5 25.5,10.9 "/>
+<rect x="3.4" y="14.5" fill="#444444" width="8.5" height="2"/>
+<rect x="4.4" y="17.5" fill="#444444" width="6.6" height="2"/>
+<rect x="16.9" y="14.5" fill="#444444" width="8.5" height="2"/>
+<rect x="17.9" y="17.5" fill="#444444" width="6.6" height="2"/>
+</svg>
